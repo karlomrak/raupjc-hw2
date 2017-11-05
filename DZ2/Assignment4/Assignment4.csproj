@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment1\Assignment1.csproj">
+      <Project>{C7E31DB5-086E-4EF4-8B3D-2E6502276BA1}</Project>
+      <Name>Assignment1</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

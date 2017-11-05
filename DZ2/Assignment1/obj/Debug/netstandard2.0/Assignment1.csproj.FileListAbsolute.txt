@@ -1,0 +1,8 @@
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/bin/Debug/netstandard2.0/Assignment1.deps.json
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/bin/Debug/netstandard2.0/Assignment1.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/bin/Debug/netstandard2.0/Assignment1.pdb
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/obj/Debug/netstandard2.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfoInputs.cache
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfo.cs
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/obj/Debug/netstandard2.0/Assignment1.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment1/obj/Debug/netstandard2.0/Assignment1.pdb
