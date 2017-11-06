@@ -1,0 +1,15 @@
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment3.deps.json
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment3.runtimeconfig.json
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment3.runtimeconfig.dev.json
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment3.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment3.pdb
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment2.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/bin/Debug/netcoreapp2.0/Assignment2.pdb
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/obj/Debug/netcoreapp2.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/obj/Debug/netcoreapp2.0/Assignment3.AssemblyInfoInputs.cache
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/obj/Debug/netcoreapp2.0/Assignment3.AssemblyInfo.cs
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/obj/Debug/netcoreapp2.0/Assignment3.dll
+/Users/karlomrakovcic/RiderProjects/DZ2/Assignment3/obj/Debug/netcoreapp2.0/Assignment3.pdb
